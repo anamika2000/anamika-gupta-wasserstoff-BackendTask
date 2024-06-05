@@ -1,0 +1,16 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "HealthCare project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0"
+  }
+}
